@@ -1,0 +1,15 @@
+{
+  "name": "agentic-dwh-app",
+  "version": "1.0.0",
+  "description": "Agentic Data Warehouse Orchestrator — browser UI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.36.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "xlsx": "^0.18.5"
+  }
+}

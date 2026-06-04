@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "dbt": {
+      "command": "uvx",
+      "args": ["dbt-mcp"],
+      "env": {
+        "DBT_PROJECT_DIR": "${workspaceFolder}/dbt_project_snowflake",
+        "DBT_PROFILES_DIR": "~/.dbt",
+        "DBT_PATH": "dbt"
+      }
+    }
+  }
+}

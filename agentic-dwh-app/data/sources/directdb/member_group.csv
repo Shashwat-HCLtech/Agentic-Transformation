@@ -1,0 +1,16 @@
+group_id,group_name,line_of_business,region,contract_effective
+GRP0001,Liberty County,C&S,West,2020-06-14
+GRP0002,Horizon Logistics,C&S,Midwest,2020-08-25
+GRP0003,Cardinal School District,E&I,Midwest,2021-01-01
+GRP0004,Atlas County,C&S,Northeast,2020-08-07
+GRP0005,Horizon Manufacturing,E&I,West,2020-07-06
+GRP0006,Summit Retail Group,E&I,Southwest,2020-06-30
+GRP0007,Atlas Manufacturing,E&I,Midwest,2020-07-08
+GRP0008,Summit School District,E&I,Southwest,2020-08-11
+GRP0009,Horizon School District,E&I,West,2021-01-18
+GRP0010,Evergreen Manufacturing,C&S,Midwest,2020-12-28
+GRP0011,Atlas Manufacturing,E&I,Midwest,2021-01-28
+GRP0012,Atlas Retail Group,C&S,Southeast,2020-10-07
+GRP0013,Liberty Retail Group,E&I,Southwest,2021-01-01
+GRP0014,Beacon Logistics,E&I,Midwest,2020-08-25
+GRP0015,Horizon County,C&S,West,2021-05-28

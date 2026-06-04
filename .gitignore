@@ -1,0 +1,31 @@
+# ───────── secrets (NEVER commit) ─────────
+.env
+**/.env
+.env.local
+**/.env.local
+# keep the templates
+!.env.example
+!**/.env.example
+
+# ───────── confidential client material (do NOT publish) ─────────
+_docs_extracted/
+
+# ───────── corporate CA bundle (machine-specific / internal) ─────────
+**/windows-ca.pem
+
+# ───────── node ─────────
+node_modules/
+**/node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# ───────── generated / runtime data ─────────
+agentic-dwh-app/data/output/
+agentic-dwh-app/data/audit/
+agentic-dwh-app/data/sources/_uploaded/
+
+# ───────── OS / editor ─────────
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/

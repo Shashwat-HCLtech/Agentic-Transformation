@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Agentic DWH — GOPhER → Snowflake</title>
+  <script src="marked.min.js" defer></script>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- ════════ LANDING (upload sources) ════════ -->
+  <div id="landing" class="landing">
+    <div class="landing-inner">
+      <div class="landing-header">
+        <div class="logo-hex big">⬡</div>
+        <h1>Agentic DWH&nbsp;·&nbsp;GOPhER → Snowflake</h1>
+        <p>Load the GOPhER source extracts, then run the agentic medallion pipeline (Bronze → Silver → Gold) with governance &amp; human approvals. Output: a <b>Power BI dataset</b>.</p>
+      </div>
+
+      <div class="upload-grid">
+        <div class="upload-card" data-category="mainframe">
+          <div class="uc-head"><span class="uc-ico">🖥️</span><span class="uc-title">Mainframe</span><span class="uc-fmt">.dat · pipe-delimited</span></div>
+          <div class="uc-desc">Legacy claims systems</div>
+          <div class="uc-areas" id="areas-mainframe"></div>
+          <label class="uc-drop" id="drop-mainframe">
+            <input type="file" multiple hidden />
+            <span class="uc-drop-text">⬆ Drop files or <u>browse</u></span>
+          </label>
+        </div>
+
+        <div class="upload-card" data-category="cloud">
+          <div class="uc-head"><span class="uc-ico">☁️</span><span class="uc-title">Cloud-native</span><span class="uc-fmt">.json · API feed</span></div>
+          <div class="uc-desc">Cloud / API sources</div>
+          <div class="uc-areas" id="areas-cloud"></div>
+          <label class="uc-drop" id="drop-cloud">
+            <input type="file" multiple hidden />
+            <span class="uc-drop-text">⬆ Drop files or <u>browse</u></span>
+          </label>
+        </div>
+
+        <div class="upload-card" data-category="directdb">
+          <div class="uc-head"><span class="uc-ico">🗄️</span><span class="uc-title">Direct DB</span><span class="uc-fmt">.csv · relational</span></div>
+          <div class="uc-desc">Relational DB extracts</div>
+          <div class="uc-areas" id="areas-directdb"></div>
+          <label class="uc-drop" id="drop-directdb">
+            <input type="file" multiple hidden />
+            <span class="uc-drop-text">⬆ Drop files or <u>browse</u></span>
+          </label>
+        </div>
+      </div>
+
+      <div class="landing-actions">
+        <button id="btnLoadSamples" class="btn-outline">⤓ Use sample data</button>
+        <span class="landing-status" id="landingStatus">Checking sources…</span>
+        <button id="btnLaunch" class="btn-run" disabled>▶ Run pipeline</button>
+      </div>
+      <div class="api-badge landing-api" id="apiBadge">⏳ Checking…</div>
+    </div>
+  </div>
+
+  <!-- ════════ APP (pipeline) ════════ -->
+  <div class="layout" id="app" style="display:none">
+    <aside class="sidebar">
+      <div class="logo">
+        <div class="logo-hex">⬡</div>
+        <div><div class="logo-title">Agentic DWH</div><div class="logo-sub">GOPhER → Snowflake</div></div>
+      </div>
+
+      <div class="pipeline-section">
+        <div class="section-label">SOURCES · GOPhER</div>
+        <div class="source-item"><span class="src-ico">🖥️</span>Mainframe <span class="src-meta">claims</span></div>
+        <div class="source-item"><span class="src-ico">☁️</span>Cloud-native <span class="src-meta">elig · rebate</span></div>
+        <div class="source-item"><span class="src-ico">🗄️</span>Direct DB <span class="src-meta">ref data</span></div>
+      </div>
+
+      <div class="pipeline-section">
+        <div class="section-label">MEDALLION LAYERS</div>
+        <div class="layer bronze"><span class="layer-dot"></span><span>Bronze</span><span class="layer-hint">RAW</span></div>
+        <div class="layer-arrow">↓</div>
+        <div class="layer silver"><span class="layer-dot"></span><span>Silver</span><span class="layer-hint">STAGING</span></div>
+        <div class="layer-arrow">↓</div>
+        <div class="layer gold"><span class="layer-dot"></span><span>Gold</span><span class="layer-hint">MARTS</span></div>
+        <div class="layer-arrow">↓</div>
+        <div class="layer bi"><span class="layer-dot"></span><span>Power BI</span><span class="layer-hint">.xlsx/.pbids</span></div>
+      </div>
+
+      <div class="pipeline-section">
+        <div class="section-label">AGENTS</div>
+        <div class="step-item" id="step-orchestrator"><div class="step-icon">🎛</div><div class="step-info"><div class="step-name">Orchestrator <span class="box">2</span></div><div class="step-status" id="status-orchestrator">Idle</div></div><div class="step-badge" id="badge-orchestrator"></div></div>
+        <div class="step-item" id="step-schema_migration_agent"><div class="step-icon">🗂</div><div class="step-info"><div class="step-name">Schema Migration <span class="box">3</span></div><div class="step-status" id="status-schema_migration_agent">Waiting</div></div><div class="step-badge" id="badge-schema_migration_agent"></div></div>
+        <div class="step-item" id="step-ingestion_agent"><div class="step-icon">📥</div><div class="step-info"><div class="step-name">Ingestion <span class="box">4</span></div><div class="step-status" id="status-ingestion_agent">Waiting</div></div><div class="step-badge" id="badge-ingestion_agent"></div></div>
+        <div class="step-item" id="step-transformation_agent"><div class="step-icon">⚙</div><div class="step-info"><div class="step-name">Transformation <span class="box">5</span></div><div class="step-status" id="status-transformation_agent">Waiting</div></div><div class="step-badge" id="badge-transformation_agent"></div></div>
+        <div class="step-item" id="step-data_quality_agent"><div class="step-icon">🔎</div><div class="step-info"><div class="step-name">Data Quality <span class="box">6</span></div><div class="step-status" id="status-data_quality_agent">Waiting</div></div><div class="step-badge" id="badge-data_quality_agent"></div></div>
+        <div class="step-item" id="step-bi_insight_agent"><div class="step-icon">📊</div><div class="step-info"><div class="step-name">BI Insight <span class="box">7</span></div><div class="step-status" id="status-bi_insight_agent">Waiting</div></div><div class="step-badge" id="badge-bi_insight_agent"></div></div>
+      </div>
+
+      <div class="gov-badge" id="govBadge">🛡 Governance · HIPAA audit ON <span class="box">1</span></div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div class="topbar-left">
+          <h1>Claude Pipeline Orchestration</h1>
+          <p class="topbar-sub">GOPhER (Mainframe · Cloud · Direct DB) → Snowflake → Power BI</p>
+        </div>
+        <div class="topbar-right">
+          <div class="run-timer" id="runTimer" style="display:none">⏱ <span id="timerVal">0:00</span></div>
+          <button class="btn-kill" id="btnKill" style="display:none" title="Governance kill switch">⛔ Kill</button>
+          <button class="btn-outline" id="btnSources">⬅ Sources</button>
+        </div>
+      </header>
+
+      <div class="tabbar">
+        <button class="tab active" id="tabActivity" onclick="switchTab('activity')">📡 Activity</button>
+        <button class="tab" id="tabGovernance" onclick="switchTab('governance')">🛡 Governance <span class="tab-count" id="govCount" style="display:none">0</span></button>
+        <button class="tab" id="tabReport" onclick="switchTab('report')" style="display:none">📋 Report <span class="tab-new" id="reportBadge" style="display:none">NEW</span></button>
+      </div>
+
+      <div id="viewActivity" class="view">
+        <div class="activity-feed" id="activityFeed">
+          <div class="empty-state" id="emptyState">
+            <div class="empty-icon">⬡</div><div class="empty-title">Starting pipeline…</div>
+            <div class="empty-sub">The orchestrator will begin delegating to specialist agents.</div>
+          </div>
+        </div>
+      </div>
+
+      <div id="viewGovernance" class="view" style="display:none">
+        <div class="gov-grid">
+          <div class="gov-panel">
+            <div class="gov-panel-head">⚠ Drift &amp; Governance Alerts</div>
+            <div class="gov-alerts" id="govAlerts"><div class="gov-empty">No alerts.</div></div>
+          </div>
+          <div class="gov-panel">
+            <div class="gov-panel-head">✋ Approval History</div>
+            <div class="gov-approvals" id="govApprovals"><div class="gov-empty">No approvals requested yet.</div></div>
+          </div>
+        </div>
+        <div class="gov-panel gov-audit-panel">
+          <div class="gov-panel-head">🔐 HIPAA Audit Trail <span class="gov-sub">every agent action is logged</span></div>
+          <div class="audit-table" id="auditTable"><div class="gov-empty">Audit entries will stream here as the pipeline runs.</div></div>
+        </div>
+      </div>
+
+      <div id="viewReport" class="view" style="display:none">
+        <div class="report-toolbar">
+          <div class="report-meta" id="reportMeta"></div>
+          <div class="report-actions">
+            <button class="btn-outline" id="btnCopy" onclick="copyReport()">⎘ Copy</button>
+            <button class="btn-outline" id="btnDownload" onclick="downloadReport()">↓ Markdown</button>
+          </div>
+        </div>
+        <div class="powerbi-bar" id="powerbiBar" style="display:none"></div>
+        <div class="report-body" id="reportBody">
+          <div class="empty-state"><div class="empty-icon">📋</div><div class="empty-title">Report not yet available</div><div class="empty-sub">The final summary + Power BI dataset will appear here.</div></div>
+        </div>
+      </div>
+
+      <div class="inputbar">
+        <textarea id="goalInput" class="goal-input" rows="2"></textarea>
+        <button class="btn-run" id="btnRun">▶ Re-run</button>
+      </div>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

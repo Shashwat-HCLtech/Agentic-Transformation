@@ -1,0 +1,20 @@
+version: 2
+
+models:
+  - name: sl_orders
+    columns:
+      - name: order_id
+        tests: [not_null, unique]
+      - name: customer_id
+        tests: [not_null]
+      - name: amount_usd
+        tests:
+          - not_null
+          - dbt_utils.accepted_range:
+              min_value: 0
+  - name: gd_daily_revenue
+    columns:
+      - name: order_date
+        tests: [not_null, unique]
+      - name: revenue_usd
+        tests: [not_null]

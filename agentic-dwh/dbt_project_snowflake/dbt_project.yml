@@ -1,0 +1,24 @@
+name: 'agentic_dwh'
+version: '1.0.0'
+config-version: 2
+profile: 'agentic_dwh'
+
+model-paths: ["models"]
+test-paths: ["tests"]
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+models:
+  agentic_dwh:
+    bronze:
+      +materialized: view
+      +schema: bronze
+    silver:
+      +materialized: table
+      +schema: silver
+    gold:
+      +materialized: incremental
+      +on_schema_change: append_new_columns
+      +schema: gold

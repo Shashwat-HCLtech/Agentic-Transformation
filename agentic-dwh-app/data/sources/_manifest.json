@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-06-04T13:42:25.554Z",
+  "seed": 42,
+  "source_system": "GOPhER Data Mart — Mainframe + Cloud-native + Direct DB",
+  "target": "Snowflake (Bronze → Silver → Gold)",
+  "business_context": "UHC Pharmacy — PharsOnline analytic sandbox",
+  "source_classes": {
+    "mainframe": [
+      "pharmacy_claims",
+      "rejected_claims"
+    ],
+    "cloud": [
+      "eligibility",
+      "rebate"
+    ],
+    "directdb": [
+      "member_group",
+      "benefit",
+      "drug_master"
+    ]
+  },
+  "record_counts": {
+    "member_group": 15,
+    "benefit": 12,
+    "drug_master": 60,
+    "eligibility": 500,
+    "pharmacy_claims": 3000,
+    "rejected_claims": 400,
+    "rebate": 44
+  }
+}

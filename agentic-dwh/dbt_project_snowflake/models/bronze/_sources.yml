@@ -1,0 +1,20 @@
+version: 2
+
+sources:
+  - name: raw
+    database: "{{ env_var('SNOWFLAKE_DATABASE') }}"
+    schema: RAW
+    tables:
+      - name: orders
+        description: "Raw orders landed from ingestion agent"
+        columns:
+          - name: order_id
+            tests: [not_null, unique]
+          - name: customer_id
+            tests: [not_null]
+          - name: order_ts
+          - name: amount_cents
+      - name: customers
+        columns:
+          - name: customer_id
+            tests: [not_null, unique]
