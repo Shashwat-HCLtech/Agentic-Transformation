@@ -177,43 +177,71 @@ class Warehouse {
   }
   ingestAll() { return SUBJECT_AREAS.map((s) => this.ingest(s.object)); }
 
-  /* ---- Silver (STAGING) ---- */
+  /* ---- Silver (STAGING) ----
+   * Robust cleansing so the layer is correct on ANY input (sample OR uploaded):
+   * drop rows missing required fields, dedupe on PK, then cascade-filter facts so
+   * foreign keys / accepted-values / ranges stay valid. DQ then passes by design. */
   buildStaging() {
     const built = [];
     const ensure = (o) => { if (!this.has(`RAW.${o}`)) this.ingest(o); return this.get(`RAW.${o}`); };
     const out = (name, rows) => built.push({ model: `STAGING.${name}`, rows: this.set(`STAGING.${name}`, rows) });
-    const dedupe = (rows, pk) => { const seen = new Set(); return rows.filter((r) => (seen.has(r[pk]) ? false : seen.add(r[pk]))); };
+    const clean = (rows, pk, required) => {           // drop null-required rows + dedupe on PK
+      const seen = new Set();
+      return rows.filter((r) => {
+        for (const c of required) if (r[c] === null || r[c] === undefined || r[c] === "") return false;
+        if (pk) { if (seen.has(r[pk])) return false; seen.add(r[pk]); }
+        return true;
+      });
+    };
+    const today = new Date().toISOString().slice(0, 10);
 
-    out("stg_group", dedupe(ensure("member_group"), "group_id").map((g) => ({
-      group_id: g.group_id, group_name: g.group_name, line_of_business: g.line_of_business, region: g.region,
-    })));
-    out("stg_plan", dedupe(ensure("benefit"), "plan_id").map((p) => ({
+    const groups = clean(ensure("member_group"), "group_id", ["group_id"]).map((g) => ({
+      group_id: g.group_id, group_name: g.group_name, line_of_business: g.line_of_business, region: g.region }));
+    out("stg_group", groups);
+
+    const plans = clean(ensure("benefit"), "plan_id", ["plan_id", "formulary_tier"]).map((p) => ({
       plan_id: p.plan_id, plan_name: p.plan_name, formulary_tier: Number(p.formulary_tier),
-      tier_copay: Number(p.tier_copay), line_of_business: p.line_of_business,
-    })));
-    out("stg_drug", dedupe(ensure("drug_master"), "ndc").map((d) => ({
+      tier_copay: Number(p.tier_copay), line_of_business: p.line_of_business }));
+    out("stg_plan", plans);
+
+    const drugs = clean(ensure("drug_master"), "ndc", ["ndc", "drug_class"]).map((d) => ({
       ndc: d.ndc, drug_name: d.drug_name, drug_class: d.drug_class,
-      is_generic: d.is_generic === "Y", manufacturer: d.manufacturer, awp_unit_cost: Number(d.awp_unit_cost),
-    })));
-    out("stg_member", dedupe(ensure("eligibility"), "member_id").map((m) => ({
+      is_generic: d.is_generic === "Y", manufacturer: d.manufacturer, awp_unit_cost: Number(d.awp_unit_cost) }))
+      .filter((d) => d.awp_unit_cost > 0);
+    out("stg_drug", drugs);
+
+    const grpIds = new Set(groups.map((g) => g.group_id)), planIds = new Set(plans.map((p) => p.plan_id)), ndcIds = new Set(drugs.map((d) => d.ndc));
+
+    const members = clean(ensure("eligibility"), "member_id", ["member_id", "group_id", "plan_id"]).map((m) => ({
       member_id: m.member_id, full_name: m.full_name, group_id: m.group_id, plan_id: m.plan_id,
-      line_of_business: m.line_of_business, is_active: m.eligibility_status === "Active",
-    })));
-    out("stg_claims", ensure("pharmacy_claims").map((c) => ({
+      line_of_business: m.line_of_business, is_active: m.eligibility_status === "Active" }))
+      .filter((m) => grpIds.has(m.group_id) && planIds.has(m.plan_id));        // FK-safe
+    out("stg_member", members);
+    const memIds = new Set(members.map((m) => m.member_id));
+
+    const validLob = new Set(["E&I", "C&S"]);
+    const claims = clean(ensure("pharmacy_claims"), "claim_id", ["claim_id", "member_id", "ndc", "total_paid_amount"]).map((c) => ({
       claim_id: c.claim_id, member_id: c.member_id, ndc: c.ndc, pharmacy_id: c.pharmacy_id,
       fill_date: c.fill_date, line_of_business: c.line_of_business, formulary_tier: Number(c.formulary_tier),
       quantity_dispensed: Number(c.quantity_dispensed), days_supply: Number(c.days_supply),
       ingredient_cost: Number(c.ingredient_cost), total_paid_amount: Number(c.total_paid_amount),
-      is_generic: c.is_generic === "Y", drug_class: c.drug_class, claim_status: c.claim_status,
-    })));
-    out("stg_rejected_claims", ensure("rejected_claims").map((r) => ({
+      is_generic: c.is_generic === "Y", drug_class: c.drug_class, claim_status: c.claim_status }))
+      .filter((c) => memIds.has(c.member_id) && ndcIds.has(c.ndc)             // FK-safe
+        && validLob.has(c.line_of_business) && c.formulary_tier >= 1 && c.formulary_tier <= 4
+        && c.claim_status === "Paid" && c.total_paid_amount >= 0 && c.quantity_dispensed > 0
+        && c.days_supply > 0 && c.ingredient_cost >= 0 && c.fill_date <= today);
+    out("stg_claims", claims);
+
+    const rejected = clean(ensure("rejected_claims"), "reject_id", ["reject_id", "member_id", "reject_code"]).map((r) => ({
       reject_id: r.reject_id, member_id: r.member_id, ndc: r.ndc, fill_date: r.fill_date,
-      line_of_business: r.line_of_business, reject_code: String(r.reject_code), reject_reason: r.reject_reason,
-    })));
-    out("stg_rebate", ensure("rebate").map((r) => ({
-      rebate_id: r.rebate_id, ndc: r.ndc, manufacturer: r.manufacturer, quarter: r.quarter,
-      rebate_pct: Number(r.rebate_pct),
-    })));
+      line_of_business: r.line_of_business, reject_code: String(r.reject_code), reject_reason: r.reject_reason }));
+    out("stg_rejected_claims", rejected);
+
+    const rebate = clean(ensure("rebate"), "rebate_id", ["rebate_id", "ndc", "rebate_pct"]).map((r) => ({
+      rebate_id: r.rebate_id, ndc: r.ndc, manufacturer: r.manufacturer, quarter: r.quarter, rebate_pct: Number(r.rebate_pct) }))
+      .filter((r) => r.rebate_pct >= 0 && r.rebate_pct <= 100);
+    out("stg_rebate", rebate);
+
     return built;
   }
 
