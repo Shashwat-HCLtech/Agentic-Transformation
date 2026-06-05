@@ -1,0 +1,13 @@
+plan_id,plan_name,formulary_tier,tier_copay,deductible,line_of_business
+PLN0001,Value Rx Gold,2,35,0,E&I
+PLN0002,HDHP Rx Bronze,2,35,0,E&I
+PLN0003,Standard Rx Bronze,4,150,0,E&I
+PLN0004,Premium Rx Silver,3,75,0,E&I
+PLN0005,Premium Rx Silver,2,35,500,E&I
+PLN0006,Premium Rx Gold,4,150,500,E&I
+PLN0007,HDHP Rx Silver,1,10,500,C&S
+PLN0008,HDHP Rx Silver,1,10,0,E&I
+PLN0009,HDHP Rx Gold,3,75,0,E&I
+PLN0010,Premium Rx Bronze,1,10,150,C&S
+PLN0011,Standard Rx Silver,1,10,0,E&I
+PLN0012,Value Rx Bronze,2,35,0,E&I

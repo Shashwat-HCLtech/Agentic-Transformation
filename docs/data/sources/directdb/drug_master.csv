@@ -1,0 +1,61 @@
+ndc,drug_name,drug_class,is_generic,manufacturer,awp_unit_cost
+64978-591-63,Nexium 33mg,Inhaled Corticosteroids,N,Novartis,1129.96
+25237-725-38,Atorvastatin 32mg,Antidiabetics,Y,Pfizer,30.4
+44193-740-92,Symbicort 41mg,Anticoagulants,N,Merck,1100.85
+90505-505-23,Lisinostatin 67mg,Inhaled Corticosteroids,Y,Novartis,101.64
+54279-873-85,Warfarstatin 13mg,Antidiabetics,Y,Pfizer,118.22
+78471-992-83,Warfarstatin 69mg,Proton Pump Inhibitors,Y,Viatris,82.82
+89054-712-41,Vyvanse 54mg,Anticoagulants,N,AbbVie,1027.44
+11797-176-68,Humira 77mg,Inhaled Corticosteroids,N,Viatris,855.39
+34579-225-14,Sertrastatin 41mg,Antihypertensives,Y,AstraZeneca,21.69
+27633-699-56,Metforstatin 43mg,Opioid Analgesics,Y,Lilly,95.25
+23288-554-34,Eliquis 48mg,Antihypertensives,N,Teva,732.1
+23335-948-16,Symbicort 40mg,Antihypertensives,N,AstraZeneca,87.98
+43355-306-73,Lisinostatin 16mg,Statins,Y,Amgen,11.52
+59392-824-57,Omeprastatin 15mg,Opioid Analgesics,Y,Pfizer,96.58
+70152-604-97,Lipitor 38mg,Statins,N,AbbVie,1504.94
+28446-949-95,Sertrastatin 46mg,SSRIs,Y,Viatris,66.72
+82892-380-54,Budesostatin 49mg,ADHD Stimulants,Y,Teva,70.38
+98588-789-37,Warfarstatin 57mg,Anticoagulants,Y,Viatris,116.2
+89188-471-40,Lisinostatin 69mg,Antidiabetics,Y,Teva,41.45
+35806-965-53,Sertrastatin 54mg,Inhaled Corticosteroids,Y,Sandoz,22.35
+86205-912-59,Metforstatin 15mg,Opioid Analgesics,Y,Lilly,26.38
+49850-654-74,Lisinostatin 13mg,Inhaled Corticosteroids,Y,Merck,53.43
+84535-854-71,Lipitor 12mg,Statins,N,Novartis,875.75
+66348-918-89,Zoloft 17mg,Opioid Analgesics,N,Teva,1894.86
+33411-748-56,Metforstatin 52mg,SSRIs,Y,Merck,37.05
+20493-152-12,Sertrastatin 27mg,Opioid Analgesics,Y,Novartis,110.64
+40745-684-12,Warfarstatin 66mg,ADHD Stimulants,Y,AbbVie,101.6
+22429-174-79,Metforstatin 71mg,SSRIs,Y,Sandoz,63.08
+23094-596-70,Omeprastatin 64mg,Antihypertensives,Y,Novartis,25.17
+59988-284-92,Lisinostatin 62mg,Proton Pump Inhibitors,Y,Pfizer,74.32
+14235-393-74,Budesostatin 27mg,ADHD Stimulants,Y,Viatris,37.65
+55676-269-86,Lipitor 19mg,Antihypertensives,N,Amgen,1442.43
+65766-536-70,Omeprastatin 79mg,SSRIs,Y,Viatris,63.5
+78598-501-53,Zoloft 45mg,Antidiabetics,N,Pfizer,1178.39
+32638-553-13,Humira 14mg,Inhaled Corticosteroids,N,Amgen,983.19
+14838-628-59,Metforstatin 46mg,Opioid Analgesics,Y,Lilly,98.16
+73745-103-72,Omeprastatin 36mg,Antihypertensives,Y,Sandoz,6.87
+91235-515-14,Eliquis 45mg,ADHD Stimulants,N,Lilly,1390.38
+74336-635-95,Budesostatin 44mg,Antihypertensives,Y,Pfizer,18.95
+53811-713-59,Eliquis 70mg,ADHD Stimulants,N,Teva,1174.09
+83048-961-83,Omeprastatin 16mg,ADHD Stimulants,Y,Amgen,116.22
+71126-798-39,Budesostatin 42mg,Statins,Y,Amgen,105.54
+43701-752-14,Nexium 26mg,Biologics,N,Teva,411.02
+46859-813-76,Atorvastatin 58mg,Antidiabetics,Y,Viatris,117.06
+52021-443-85,Warfarstatin 32mg,SSRIs,Y,Lilly,108.44
+63509-167-67,Budesostatin 40mg,Anticoagulants,Y,AstraZeneca,24.86
+25212-978-26,Humira 60mg,Inhaled Corticosteroids,N,AstraZeneca,1328.34
+79441-100-15,Atorvastatin 74mg,Anticoagulants,Y,Pfizer,108.05
+77059-670-10,Metforstatin 68mg,Statins,Y,AbbVie,11.61
+14492-663-63,Budesostatin 51mg,Proton Pump Inhibitors,Y,Lilly,80.06
+27514-221-73,Humira 30mg,Anticoagulants,N,Amgen,1331.63
+40440-699-98,Vyvanse 59mg,ADHD Stimulants,N,AbbVie,1344.23
+30996-235-38,Methylphstatin 45mg,ADHD Stimulants,Y,Amgen,110.51
+98985-325-96,Omeprastatin 77mg,Statins,Y,AbbVie,74.4
+35897-949-66,Zoloft 46mg,Anticoagulants,N,AbbVie,539.81
+90983-693-58,Vyvanse 51mg,Antihypertensives,N,Viatris,1289.07
+62925-694-66,Metforstatin 22mg,Antihypertensives,Y,Pfizer,57.31
+11705-212-68,Zoloft 13mg,Opioid Analgesics,N,Lilly,772.33
+29367-350-65,Zoloft 34mg,Biologics,N,Teva,1581.76
+27946-411-89,Budesostatin 77mg,Antihypertensives,Y,Lilly,14.69

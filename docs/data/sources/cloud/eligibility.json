@@ -1,0 +1,5002 @@
+[
+  {
+    "member_id": "MBR000001",
+    "full_name": "Nora Lopez",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-01",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000002",
+    "full_name": "Leo Williams",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-29",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000003",
+    "full_name": "Tom Davis",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0009",
+    "line_of_business": "E&I",
+    "effective_date": "2023-03-29",
+    "term_date": "2025-01-28",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000004",
+    "full_name": "Omar Davis",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2022-07-21",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000005",
+    "full_name": "Ray Brown",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-03",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000006",
+    "full_name": "Tom Brown",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2022-02-16",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000007",
+    "full_name": "Pia Davis",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2023-02-25",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000008",
+    "full_name": "Omar Jones",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2022-05-04",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000009",
+    "full_name": "Sue Smith",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0010",
+    "line_of_business": "C&S",
+    "effective_date": "2022-07-20",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000010",
+    "full_name": "Quinn Brown",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-10-04",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000011",
+    "full_name": "Hank Miller",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0005",
+    "line_of_business": "C&S",
+    "effective_date": "2022-10-17",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000012",
+    "full_name": "David Wilson",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0010",
+    "line_of_business": "C&S",
+    "effective_date": "2023-08-14",
+    "term_date": "2025-04-27",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000013",
+    "full_name": "Eve Smith",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0011",
+    "line_of_business": "E&I",
+    "effective_date": "2023-08-08",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000014",
+    "full_name": "Tom Wilson",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0008",
+    "line_of_business": "C&S",
+    "effective_date": "2022-08-11",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000015",
+    "full_name": "Quinn Brown",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2022-05-24",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000016",
+    "full_name": "Leo Williams",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0001",
+    "line_of_business": "C&S",
+    "effective_date": "2022-10-12",
+    "term_date": "2025-06-24",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000017",
+    "full_name": "Carol Garcia",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0004",
+    "line_of_business": "C&S",
+    "effective_date": "2022-07-12",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000018",
+    "full_name": "Leo Smith",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0011",
+    "line_of_business": "C&S",
+    "effective_date": "2023-03-07",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000019",
+    "full_name": "Ivy Johnson",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0012",
+    "line_of_business": "C&S",
+    "effective_date": "2022-05-09",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000020",
+    "full_name": "Ivy Garcia",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0005",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-05",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000021",
+    "full_name": "Mona Nguyen",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0011",
+    "line_of_business": "C&S",
+    "effective_date": "2023-01-21",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000022",
+    "full_name": "Ivy Williams",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0012",
+    "line_of_business": "C&S",
+    "effective_date": "2023-04-10",
+    "term_date": "2025-07-12",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000023",
+    "full_name": "Frank Miller",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-04",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000024",
+    "full_name": "Sue Khan",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0006",
+    "line_of_business": "C&S",
+    "effective_date": "2022-06-20",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000025",
+    "full_name": "Alice Wilson",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0002",
+    "line_of_business": "C&S",
+    "effective_date": "2022-04-12",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000026",
+    "full_name": "Kara Miller",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0005",
+    "line_of_business": "C&S",
+    "effective_date": "2023-01-25",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000027",
+    "full_name": "Omar Wilson",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2022-10-28",
+    "term_date": "2025-04-19",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000028",
+    "full_name": "Nora Jones",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2023-03-27",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000029",
+    "full_name": "Sue Lopez",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-13",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000030",
+    "full_name": "Alice Johnson",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0009",
+    "line_of_business": "C&S",
+    "effective_date": "2022-05-11",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000031",
+    "full_name": "Jack Khan",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0011",
+    "line_of_business": "C&S",
+    "effective_date": "2022-12-20",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000032",
+    "full_name": "Bob Khan",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0010",
+    "line_of_business": "C&S",
+    "effective_date": "2023-03-28",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000033",
+    "full_name": "Frank Nguyen",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0010",
+    "line_of_business": "C&S",
+    "effective_date": "2023-02-05",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000034",
+    "full_name": "Tom Patel",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0002",
+    "line_of_business": "E&I",
+    "effective_date": "2023-06-05",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000035",
+    "full_name": "Quinn Garcia",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2023-03-04",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000036",
+    "full_name": "Frank Kim",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0012",
+    "line_of_business": "C&S",
+    "effective_date": "2022-12-07",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000037",
+    "full_name": "Frank Jones",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-10-14",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000038",
+    "full_name": "Ray Kim",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0008",
+    "line_of_business": "C&S",
+    "effective_date": "2022-12-13",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000039",
+    "full_name": "Leo Jones",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2022-10-26",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000040",
+    "full_name": "Quinn Lopez",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0002",
+    "line_of_business": "E&I",
+    "effective_date": "2022-05-23",
+    "term_date": "2025-03-06",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000041",
+    "full_name": "Alice Miller",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2023-02-21",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000042",
+    "full_name": "Kara Patel",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-03-01",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000043",
+    "full_name": "Bob Brown",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2023-02-17",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000044",
+    "full_name": "Omar Khan",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0012",
+    "line_of_business": "C&S",
+    "effective_date": "2023-02-14",
+    "term_date": "2025-08-12",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000045",
+    "full_name": "Bob Davis",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-17",
+    "term_date": "2025-09-27",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000046",
+    "full_name": "Bob Jones",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2023-05-28",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000047",
+    "full_name": "Tom Patel",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0011",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-30",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000048",
+    "full_name": "Hank Williams",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0009",
+    "line_of_business": "C&S",
+    "effective_date": "2022-09-20",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000049",
+    "full_name": "Alice Williams",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2023-09-18",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000050",
+    "full_name": "Omar Brown",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2022-08-22",
+    "term_date": "2025-08-06",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000051",
+    "full_name": "Omar Brown",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2022-07-08",
+    "term_date": "2025-04-10",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000052",
+    "full_name": "Sue Kim",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0009",
+    "line_of_business": "E&I",
+    "effective_date": "2022-04-29",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000053",
+    "full_name": "Quinn Smith",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-25",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000054",
+    "full_name": "Eve Johnson",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2022-05-13",
+    "term_date": "2025-08-17",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000055",
+    "full_name": "Kara Brown",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-21",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000056",
+    "full_name": "Bob Nguyen",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2022-09-05",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000057",
+    "full_name": "Grace Brown",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0003",
+    "line_of_business": "C&S",
+    "effective_date": "2022-09-30",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000058",
+    "full_name": "Bob Miller",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0009",
+    "line_of_business": "E&I",
+    "effective_date": "2022-02-08",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000059",
+    "full_name": "Sue Nguyen",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-07",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000060",
+    "full_name": "Nora Patel",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-12",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000061",
+    "full_name": "Jack Brown",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0005",
+    "line_of_business": "C&S",
+    "effective_date": "2022-07-11",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000062",
+    "full_name": "Hank Jones",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0003",
+    "line_of_business": "C&S",
+    "effective_date": "2022-10-14",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000063",
+    "full_name": "Jack Johnson",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2022-03-28",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000064",
+    "full_name": "Ivy Khan",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2023-02-04",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000065",
+    "full_name": "Nora Nguyen",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0012",
+    "line_of_business": "C&S",
+    "effective_date": "2023-05-30",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000066",
+    "full_name": "Carol Nguyen",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0009",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-12",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000067",
+    "full_name": "Grace Garcia",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2023-06-09",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000068",
+    "full_name": "Eve Johnson",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2022-08-24",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000069",
+    "full_name": "Bob Kim",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0005",
+    "line_of_business": "C&S",
+    "effective_date": "2022-11-08",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000070",
+    "full_name": "Quinn Jones",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2022-06-29",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000071",
+    "full_name": "Mona Nguyen",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-26",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000072",
+    "full_name": "Pia Smith",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0001",
+    "line_of_business": "C&S",
+    "effective_date": "2022-03-28",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000073",
+    "full_name": "Omar Kim",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0006",
+    "line_of_business": "C&S",
+    "effective_date": "2022-09-22",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000074",
+    "full_name": "Bob Williams",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2022-02-27",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000075",
+    "full_name": "Eve Garcia",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2022-03-22",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000076",
+    "full_name": "Bob Johnson",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-27",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000077",
+    "full_name": "Carol Patel",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0009",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-01",
+    "term_date": "2025-06-21",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000078",
+    "full_name": "Eve Williams",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2023-03-25",
+    "term_date": "2025-05-21",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000079",
+    "full_name": "Hank Garcia",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2023-07-18",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000080",
+    "full_name": "Bob Patel",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2022-08-18",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000081",
+    "full_name": "Nora Khan",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0011",
+    "line_of_business": "E&I",
+    "effective_date": "2022-10-27",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000082",
+    "full_name": "Pia Davis",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0003",
+    "line_of_business": "C&S",
+    "effective_date": "2022-07-18",
+    "term_date": "2025-09-07",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000083",
+    "full_name": "David Khan",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2022-03-20",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000084",
+    "full_name": "Tom Davis",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0004",
+    "line_of_business": "C&S",
+    "effective_date": "2022-10-15",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000085",
+    "full_name": "Carol Kim",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0002",
+    "line_of_business": "E&I",
+    "effective_date": "2022-06-22",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000086",
+    "full_name": "Kara Wilson",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-10",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000087",
+    "full_name": "Frank Johnson",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0012",
+    "line_of_business": "C&S",
+    "effective_date": "2023-05-18",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000088",
+    "full_name": "Leo Khan",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2023-09-08",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000089",
+    "full_name": "Kara Brown",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2023-07-15",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000090",
+    "full_name": "Grace Williams",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-29",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000091",
+    "full_name": "David Brown",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-07-06",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000092",
+    "full_name": "Kara Wilson",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0002",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-02",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000093",
+    "full_name": "Bob Johnson",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0002",
+    "line_of_business": "C&S",
+    "effective_date": "2023-06-27",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000094",
+    "full_name": "Grace Johnson",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0011",
+    "line_of_business": "E&I",
+    "effective_date": "2022-07-01",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000095",
+    "full_name": "Carol Lopez",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-03",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000096",
+    "full_name": "Nora Johnson",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0011",
+    "line_of_business": "E&I",
+    "effective_date": "2023-03-21",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000097",
+    "full_name": "David Smith",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0009",
+    "line_of_business": "C&S",
+    "effective_date": "2022-11-25",
+    "term_date": "2025-04-01",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000098",
+    "full_name": "Eve Johnson",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-06-16",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000099",
+    "full_name": "David Nguyen",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0011",
+    "line_of_business": "E&I",
+    "effective_date": "2022-09-23",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000100",
+    "full_name": "Sue Davis",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0012",
+    "line_of_business": "C&S",
+    "effective_date": "2022-11-07",
+    "term_date": "2025-06-29",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000101",
+    "full_name": "Kara Davis",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2022-10-10",
+    "term_date": "2025-03-30",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000102",
+    "full_name": "Nora Johnson",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-08",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000103",
+    "full_name": "Jack Williams",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0005",
+    "line_of_business": "C&S",
+    "effective_date": "2022-11-05",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000104",
+    "full_name": "Sue Smith",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0010",
+    "line_of_business": "C&S",
+    "effective_date": "2022-05-15",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000105",
+    "full_name": "Tom Wilson",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0009",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-03",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000106",
+    "full_name": "Sue Williams",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0001",
+    "line_of_business": "C&S",
+    "effective_date": "2023-07-31",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000107",
+    "full_name": "Nora Miller",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2022-09-08",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000108",
+    "full_name": "Tom Wilson",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0009",
+    "line_of_business": "C&S",
+    "effective_date": "2022-12-05",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000109",
+    "full_name": "Eve Wilson",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0009",
+    "line_of_business": "E&I",
+    "effective_date": "2022-09-19",
+    "term_date": "2025-07-08",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000110",
+    "full_name": "Ray Lopez",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0001",
+    "line_of_business": "C&S",
+    "effective_date": "2022-09-08",
+    "term_date": "2025-04-09",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000111",
+    "full_name": "Bob Brown",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2022-03-11",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000112",
+    "full_name": "David Khan",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2022-04-18",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000113",
+    "full_name": "Carol Lopez",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2022-09-27",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000114",
+    "full_name": "Mona Jones",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2022-10-02",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000115",
+    "full_name": "Mona Patel",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2023-06-07",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000116",
+    "full_name": "Alice Garcia",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-12",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000117",
+    "full_name": "Grace Nguyen",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-01",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000118",
+    "full_name": "Grace Wilson",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-05",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000119",
+    "full_name": "Omar Patel",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-16",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000120",
+    "full_name": "Kara Wilson",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2023-02-25",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000121",
+    "full_name": "Ray Johnson",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0005",
+    "line_of_business": "E&I",
+    "effective_date": "2022-09-15",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000122",
+    "full_name": "Jack Johnson",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0005",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-07",
+    "term_date": "2025-05-10",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000123",
+    "full_name": "Omar Wilson",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-23",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000124",
+    "full_name": "Tom Patel",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0004",
+    "line_of_business": "C&S",
+    "effective_date": "2022-01-05",
+    "term_date": "2025-09-15",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000125",
+    "full_name": "Ray Kim",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0009",
+    "line_of_business": "E&I",
+    "effective_date": "2022-10-22",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000126",
+    "full_name": "Grace Davis",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2022-06-21",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000127",
+    "full_name": "Nora Davis",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-15",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000128",
+    "full_name": "Grace Williams",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0003",
+    "line_of_business": "C&S",
+    "effective_date": "2022-10-29",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000129",
+    "full_name": "Jack Patel",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0011",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-11",
+    "term_date": "2025-06-24",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000130",
+    "full_name": "Jack Wilson",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2022-10-19",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000131",
+    "full_name": "Bob Williams",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-21",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000132",
+    "full_name": "Alice Wilson",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0002",
+    "line_of_business": "E&I",
+    "effective_date": "2022-04-18",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000133",
+    "full_name": "Hank Garcia",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0006",
+    "line_of_business": "C&S",
+    "effective_date": "2022-10-06",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000134",
+    "full_name": "Frank Jones",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2022-11-07",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000135",
+    "full_name": "Sue Garcia",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2022-05-01",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000136",
+    "full_name": "David Miller",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0011",
+    "line_of_business": "C&S",
+    "effective_date": "2023-03-10",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000137",
+    "full_name": "Mona Lopez",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0009",
+    "line_of_business": "C&S",
+    "effective_date": "2023-08-30",
+    "term_date": "2025-05-30",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000138",
+    "full_name": "Eve Johnson",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-07-11",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000139",
+    "full_name": "Quinn Lopez",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0003",
+    "line_of_business": "C&S",
+    "effective_date": "2023-06-22",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000140",
+    "full_name": "David Williams",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2022-07-30",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000141",
+    "full_name": "Grace Johnson",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-04-13",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000142",
+    "full_name": "Alice Wilson",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0012",
+    "line_of_business": "C&S",
+    "effective_date": "2023-05-20",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000143",
+    "full_name": "Leo Smith",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0003",
+    "line_of_business": "C&S",
+    "effective_date": "2022-12-12",
+    "term_date": "2025-03-17",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000144",
+    "full_name": "Mona Johnson",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2022-07-31",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000145",
+    "full_name": "Tom Khan",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2022-11-20",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000146",
+    "full_name": "Leo Jones",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2023-03-25",
+    "term_date": "2025-06-05",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000147",
+    "full_name": "Bob Smith",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0002",
+    "line_of_business": "C&S",
+    "effective_date": "2023-04-08",
+    "term_date": "2025-03-28",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000148",
+    "full_name": "Ivy Jones",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0010",
+    "line_of_business": "C&S",
+    "effective_date": "2022-06-07",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000149",
+    "full_name": "Carol Patel",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2023-06-26",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000150",
+    "full_name": "Omar Smith",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0012",
+    "line_of_business": "C&S",
+    "effective_date": "2022-05-17",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000151",
+    "full_name": "Ray Kim",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2023-03-05",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000152",
+    "full_name": "Jack Jones",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2023-06-19",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000153",
+    "full_name": "Carol Kim",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0010",
+    "line_of_business": "C&S",
+    "effective_date": "2022-07-14",
+    "term_date": "2025-06-27",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000154",
+    "full_name": "David Lopez",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-17",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000155",
+    "full_name": "Kara Nguyen",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0009",
+    "line_of_business": "C&S",
+    "effective_date": "2022-12-22",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000156",
+    "full_name": "Omar Davis",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-14",
+    "term_date": "2025-09-11",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000157",
+    "full_name": "Nora Davis",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0009",
+    "line_of_business": "C&S",
+    "effective_date": "2023-02-13",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000158",
+    "full_name": "David Kim",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2023-02-22",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000159",
+    "full_name": "Frank Williams",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2022-09-10",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000160",
+    "full_name": "Hank Miller",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0002",
+    "line_of_business": "C&S",
+    "effective_date": "2022-08-10",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000161",
+    "full_name": "Carol Brown",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0002",
+    "line_of_business": "C&S",
+    "effective_date": "2022-09-11",
+    "term_date": "2025-06-14",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000162",
+    "full_name": "Leo Garcia",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0012",
+    "line_of_business": "C&S",
+    "effective_date": "2022-11-17",
+    "term_date": "2025-02-06",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000163",
+    "full_name": "Tom Smith",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-09",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000164",
+    "full_name": "Kara Smith",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-07-28",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000165",
+    "full_name": "Leo Williams",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0010",
+    "line_of_business": "C&S",
+    "effective_date": "2022-07-18",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000166",
+    "full_name": "Hank Miller",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2022-06-01",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000167",
+    "full_name": "Jack Khan",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2023-03-21",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000168",
+    "full_name": "Eve Williams",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2022-10-31",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000169",
+    "full_name": "Alice Kim",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0011",
+    "line_of_business": "E&I",
+    "effective_date": "2023-03-04",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000170",
+    "full_name": "David Nguyen",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0005",
+    "line_of_business": "E&I",
+    "effective_date": "2023-08-26",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000171",
+    "full_name": "Jack Williams",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0010",
+    "line_of_business": "C&S",
+    "effective_date": "2022-12-27",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000172",
+    "full_name": "Hank Wilson",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0012",
+    "line_of_business": "C&S",
+    "effective_date": "2023-05-12",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000173",
+    "full_name": "Mona Wilson",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0011",
+    "line_of_business": "C&S",
+    "effective_date": "2022-05-03",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000174",
+    "full_name": "Nora Khan",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2023-02-22",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000175",
+    "full_name": "Nora Nguyen",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2022-10-21",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000176",
+    "full_name": "Ray Kim",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0011",
+    "line_of_business": "E&I",
+    "effective_date": "2022-10-09",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000177",
+    "full_name": "Carol Patel",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0005",
+    "line_of_business": "E&I",
+    "effective_date": "2022-08-17",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000178",
+    "full_name": "Nora Lopez",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0005",
+    "line_of_business": "C&S",
+    "effective_date": "2022-08-30",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000179",
+    "full_name": "Grace Brown",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-07",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000180",
+    "full_name": "Ivy Smith",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0005",
+    "line_of_business": "C&S",
+    "effective_date": "2022-06-01",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000181",
+    "full_name": "Pia Johnson",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-21",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000182",
+    "full_name": "Quinn Khan",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2022-09-27",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000183",
+    "full_name": "Hank Wilson",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2023-06-22",
+    "term_date": "2025-08-29",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000184",
+    "full_name": "Mona Kim",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0001",
+    "line_of_business": "C&S",
+    "effective_date": "2022-09-14",
+    "term_date": "2025-06-21",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000185",
+    "full_name": "Ray Miller",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-06-01",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000186",
+    "full_name": "Pia Wilson",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0002",
+    "line_of_business": "E&I",
+    "effective_date": "2023-06-13",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000187",
+    "full_name": "Carol Jones",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0008",
+    "line_of_business": "C&S",
+    "effective_date": "2022-07-24",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000188",
+    "full_name": "Omar Brown",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-12",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000189",
+    "full_name": "Ray Wilson",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0006",
+    "line_of_business": "C&S",
+    "effective_date": "2022-08-30",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000190",
+    "full_name": "Kara Johnson",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0002",
+    "line_of_business": "E&I",
+    "effective_date": "2022-05-28",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000191",
+    "full_name": "David Garcia",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0004",
+    "line_of_business": "C&S",
+    "effective_date": "2023-01-22",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000192",
+    "full_name": "Jack Brown",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-06",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000193",
+    "full_name": "Bob Brown",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-04",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000194",
+    "full_name": "Ivy Nguyen",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2022-09-29",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000195",
+    "full_name": "Ray Patel",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2023-05-14",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000196",
+    "full_name": "Leo Patel",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2022-10-26",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000197",
+    "full_name": "Tom Lopez",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0002",
+    "line_of_business": "C&S",
+    "effective_date": "2022-10-29",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000198",
+    "full_name": "Hank Miller",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0001",
+    "line_of_business": "C&S",
+    "effective_date": "2022-08-05",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000199",
+    "full_name": "Nora Jones",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2022-07-03",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000200",
+    "full_name": "Carol Khan",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2023-02-01",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000201",
+    "full_name": "Bob Nguyen",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0009",
+    "line_of_business": "C&S",
+    "effective_date": "2022-07-08",
+    "term_date": "2025-01-28",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000202",
+    "full_name": "Nora Brown",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0009",
+    "line_of_business": "C&S",
+    "effective_date": "2022-11-06",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000203",
+    "full_name": "Ray Kim",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0011",
+    "line_of_business": "E&I",
+    "effective_date": "2022-04-27",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000204",
+    "full_name": "Bob Miller",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-26",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000205",
+    "full_name": "David Garcia",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2022-09-18",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000206",
+    "full_name": "Grace Jones",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0001",
+    "line_of_business": "C&S",
+    "effective_date": "2023-05-27",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000207",
+    "full_name": "Bob Nguyen",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0004",
+    "line_of_business": "C&S",
+    "effective_date": "2022-05-24",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000208",
+    "full_name": "Sue Jones",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2023-06-03",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000209",
+    "full_name": "Sue Nguyen",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2022-05-10",
+    "term_date": "2025-04-13",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000210",
+    "full_name": "Frank Garcia",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0003",
+    "line_of_business": "C&S",
+    "effective_date": "2022-07-27",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000211",
+    "full_name": "Mona Lopez",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0011",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-14",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000212",
+    "full_name": "Frank Patel",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2022-08-09",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000213",
+    "full_name": "Leo Kim",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2023-02-19",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000214",
+    "full_name": "Frank Patel",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2022-06-08",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000215",
+    "full_name": "Quinn Johnson",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-20",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000216",
+    "full_name": "Nora Nguyen",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0011",
+    "line_of_business": "C&S",
+    "effective_date": "2023-02-17",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000217",
+    "full_name": "Eve Nguyen",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0009",
+    "line_of_business": "E&I",
+    "effective_date": "2022-05-30",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000218",
+    "full_name": "David Khan",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0005",
+    "line_of_business": "E&I",
+    "effective_date": "2023-02-22",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000219",
+    "full_name": "David Patel",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0011",
+    "line_of_business": "C&S",
+    "effective_date": "2022-10-01",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000220",
+    "full_name": "Sue Johnson",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-21",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000221",
+    "full_name": "Eve Wilson",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-04",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000222",
+    "full_name": "Kara Williams",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0009",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-12",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000223",
+    "full_name": "Pia Patel",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-19",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000224",
+    "full_name": "Eve Kim",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2022-05-28",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000225",
+    "full_name": "Bob Kim",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0002",
+    "line_of_business": "C&S",
+    "effective_date": "2023-01-08",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000226",
+    "full_name": "Carol Wilson",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-16",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000227",
+    "full_name": "Leo Johnson",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0004",
+    "line_of_business": "C&S",
+    "effective_date": "2022-12-25",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000228",
+    "full_name": "Tom Johnson",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0008",
+    "line_of_business": "C&S",
+    "effective_date": "2022-02-09",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000229",
+    "full_name": "Alice Kim",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0009",
+    "line_of_business": "E&I",
+    "effective_date": "2023-02-16",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000230",
+    "full_name": "Eve Lopez",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0010",
+    "line_of_business": "C&S",
+    "effective_date": "2023-09-19",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000231",
+    "full_name": "Kara Khan",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2023-07-24",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000232",
+    "full_name": "Tom Garcia",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0002",
+    "line_of_business": "C&S",
+    "effective_date": "2022-11-11",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000233",
+    "full_name": "Mona Brown",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0004",
+    "line_of_business": "C&S",
+    "effective_date": "2023-02-02",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000234",
+    "full_name": "Nora Kim",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0005",
+    "line_of_business": "E&I",
+    "effective_date": "2023-03-16",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000235",
+    "full_name": "Carol Nguyen",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0004",
+    "line_of_business": "C&S",
+    "effective_date": "2023-06-08",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000236",
+    "full_name": "Tom Jones",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0004",
+    "line_of_business": "C&S",
+    "effective_date": "2023-01-31",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000237",
+    "full_name": "Frank Kim",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2023-03-01",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000238",
+    "full_name": "Frank Smith",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0009",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-10",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000239",
+    "full_name": "Ray Nguyen",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0003",
+    "line_of_business": "C&S",
+    "effective_date": "2022-11-05",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000240",
+    "full_name": "Tom Kim",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0006",
+    "line_of_business": "C&S",
+    "effective_date": "2023-04-14",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000241",
+    "full_name": "Quinn Smith",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-06",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000242",
+    "full_name": "Pia Johnson",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2022-09-23",
+    "term_date": "2025-04-01",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000243",
+    "full_name": "Ivy Lopez",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2022-10-04",
+    "term_date": "2025-03-09",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000244",
+    "full_name": "Frank Patel",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0003",
+    "line_of_business": "C&S",
+    "effective_date": "2023-02-25",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000245",
+    "full_name": "Jack Patel",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-10",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000246",
+    "full_name": "Omar Garcia",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-10",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000247",
+    "full_name": "Hank Smith",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2023-03-12",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000248",
+    "full_name": "Sue Patel",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2023-05-11",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000249",
+    "full_name": "Quinn Khan",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0006",
+    "line_of_business": "C&S",
+    "effective_date": "2023-05-19",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000250",
+    "full_name": "Jack Garcia",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0004",
+    "line_of_business": "C&S",
+    "effective_date": "2023-03-29",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000251",
+    "full_name": "Grace Garcia",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0005",
+    "line_of_business": "E&I",
+    "effective_date": "2022-07-08",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000252",
+    "full_name": "Tom Davis",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2022-09-02",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000253",
+    "full_name": "Nora Kim",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2023-05-19",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000254",
+    "full_name": "Frank Miller",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2023-08-14",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000255",
+    "full_name": "Quinn Patel",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-05",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000256",
+    "full_name": "Frank Kim",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-18",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000257",
+    "full_name": "Grace Khan",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-26",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000258",
+    "full_name": "David Miller",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0005",
+    "line_of_business": "C&S",
+    "effective_date": "2022-03-22",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000259",
+    "full_name": "Tom Williams",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2023-08-14",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000260",
+    "full_name": "Quinn Miller",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0011",
+    "line_of_business": "E&I",
+    "effective_date": "2022-08-21",
+    "term_date": "2025-06-29",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000261",
+    "full_name": "Frank Lopez",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0011",
+    "line_of_business": "C&S",
+    "effective_date": "2022-11-25",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000262",
+    "full_name": "Omar Kim",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0006",
+    "line_of_business": "C&S",
+    "effective_date": "2022-08-18",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000263",
+    "full_name": "Nora Garcia",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0005",
+    "line_of_business": "C&S",
+    "effective_date": "2022-06-01",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000264",
+    "full_name": "Hank Brown",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-06",
+    "term_date": "2025-04-02",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000265",
+    "full_name": "Carol Brown",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2023-02-23",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000266",
+    "full_name": "Hank Jones",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-08",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000267",
+    "full_name": "Mona Lopez",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0002",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-04",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000268",
+    "full_name": "Ivy Miller",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2023-06-11",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000269",
+    "full_name": "Ivy Davis",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2022-08-31",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000270",
+    "full_name": "Grace Williams",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0003",
+    "line_of_business": "C&S",
+    "effective_date": "2022-09-28",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000271",
+    "full_name": "Omar Kim",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0004",
+    "line_of_business": "C&S",
+    "effective_date": "2022-07-30",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000272",
+    "full_name": "Quinn Smith",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0002",
+    "line_of_business": "E&I",
+    "effective_date": "2022-09-03",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000273",
+    "full_name": "Jack Lopez",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0004",
+    "line_of_business": "C&S",
+    "effective_date": "2023-01-20",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000274",
+    "full_name": "Sue Nguyen",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0006",
+    "line_of_business": "C&S",
+    "effective_date": "2023-02-02",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000275",
+    "full_name": "Nora Kim",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0001",
+    "line_of_business": "C&S",
+    "effective_date": "2023-03-23",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000276",
+    "full_name": "Hank Miller",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-27",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000277",
+    "full_name": "Hank Jones",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-18",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000278",
+    "full_name": "Kara Williams",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2022-02-15",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000279",
+    "full_name": "Omar Patel",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0008",
+    "line_of_business": "C&S",
+    "effective_date": "2023-01-07",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000280",
+    "full_name": "Frank Johnson",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-08",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000281",
+    "full_name": "Eve Smith",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0011",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-11",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000282",
+    "full_name": "Ray Brown",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0006",
+    "line_of_business": "C&S",
+    "effective_date": "2023-04-28",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000283",
+    "full_name": "Frank Brown",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0008",
+    "line_of_business": "C&S",
+    "effective_date": "2023-04-02",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000284",
+    "full_name": "Grace Garcia",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0006",
+    "line_of_business": "C&S",
+    "effective_date": "2023-05-04",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000285",
+    "full_name": "Grace Smith",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0009",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-03",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000286",
+    "full_name": "Bob Kim",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0012",
+    "line_of_business": "C&S",
+    "effective_date": "2023-03-02",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000287",
+    "full_name": "David Garcia",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2023-06-01",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000288",
+    "full_name": "Ivy Smith",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0012",
+    "line_of_business": "C&S",
+    "effective_date": "2022-04-09",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000289",
+    "full_name": "Sue Patel",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0008",
+    "line_of_business": "C&S",
+    "effective_date": "2022-11-28",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000290",
+    "full_name": "Omar Johnson",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2022-05-20",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000291",
+    "full_name": "Pia Garcia",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0002",
+    "line_of_business": "E&I",
+    "effective_date": "2023-07-11",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000292",
+    "full_name": "Carol Davis",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0009",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-22",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000293",
+    "full_name": "Quinn Khan",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0012",
+    "line_of_business": "C&S",
+    "effective_date": "2022-10-23",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000294",
+    "full_name": "Tom Williams",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2023-03-09",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000295",
+    "full_name": "Bob Jones",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-07-02",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000296",
+    "full_name": "Pia Davis",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0008",
+    "line_of_business": "C&S",
+    "effective_date": "2022-10-21",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000297",
+    "full_name": "Nora Davis",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2022-07-26",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000298",
+    "full_name": "Leo Davis",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-16",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000299",
+    "full_name": "Sue Kim",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2022-08-24",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000300",
+    "full_name": "Pia Jones",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2022-08-31",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000301",
+    "full_name": "Hank Davis",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-23",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000302",
+    "full_name": "Ivy Smith",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-31",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000303",
+    "full_name": "Alice Nguyen",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2023-09-09",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000304",
+    "full_name": "Mona Brown",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-10-06",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000305",
+    "full_name": "Bob Jones",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0009",
+    "line_of_business": "E&I",
+    "effective_date": "2022-05-01",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000306",
+    "full_name": "Jack Smith",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2023-07-25",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000307",
+    "full_name": "Tom Nguyen",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2022-09-17",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000308",
+    "full_name": "Grace Davis",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0010",
+    "line_of_business": "C&S",
+    "effective_date": "2023-03-05",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000309",
+    "full_name": "Leo Davis",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-22",
+    "term_date": "2025-05-12",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000310",
+    "full_name": "Hank Kim",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2022-04-16",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000311",
+    "full_name": "Eve Williams",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0012",
+    "line_of_business": "C&S",
+    "effective_date": "2022-12-11",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000312",
+    "full_name": "David Jones",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2022-06-13",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000313",
+    "full_name": "Eve Smith",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-27",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000314",
+    "full_name": "Mona Patel",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2023-02-15",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000315",
+    "full_name": "Eve Miller",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-19",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000316",
+    "full_name": "Eve Nguyen",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-01",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000317",
+    "full_name": "Kara Nguyen",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0012",
+    "line_of_business": "C&S",
+    "effective_date": "2022-08-13",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000318",
+    "full_name": "Jack Smith",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0011",
+    "line_of_business": "E&I",
+    "effective_date": "2022-04-22",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000319",
+    "full_name": "Eve Nguyen",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-05",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000320",
+    "full_name": "Mona Nguyen",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0010",
+    "line_of_business": "C&S",
+    "effective_date": "2022-09-15",
+    "term_date": "2025-02-07",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000321",
+    "full_name": "Hank Miller",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-13",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000322",
+    "full_name": "Alice Johnson",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2022-03-03",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000323",
+    "full_name": "Ray Nguyen",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-03",
+    "term_date": "2025-07-10",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000324",
+    "full_name": "Ray Brown",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0011",
+    "line_of_business": "E&I",
+    "effective_date": "2023-02-17",
+    "term_date": "2025-01-07",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000325",
+    "full_name": "Mona Davis",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0011",
+    "line_of_business": "E&I",
+    "effective_date": "2022-02-13",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000326",
+    "full_name": "Eve Brown",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0005",
+    "line_of_business": "E&I",
+    "effective_date": "2023-03-25",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000327",
+    "full_name": "Ray Khan",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0004",
+    "line_of_business": "C&S",
+    "effective_date": "2022-02-17",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000328",
+    "full_name": "Frank Davis",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0005",
+    "line_of_business": "C&S",
+    "effective_date": "2023-06-22",
+    "term_date": "2025-06-27",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000329",
+    "full_name": "Carol Miller",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2023-06-06",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000330",
+    "full_name": "Carol Patel",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0005",
+    "line_of_business": "E&I",
+    "effective_date": "2022-04-04",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000331",
+    "full_name": "Ivy Lopez",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0006",
+    "line_of_business": "C&S",
+    "effective_date": "2023-03-01",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000332",
+    "full_name": "Hank Nguyen",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0012",
+    "line_of_business": "C&S",
+    "effective_date": "2022-05-06",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000333",
+    "full_name": "Quinn Jones",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-08",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000334",
+    "full_name": "Kara Khan",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0002",
+    "line_of_business": "E&I",
+    "effective_date": "2022-04-15",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000335",
+    "full_name": "Omar Smith",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0008",
+    "line_of_business": "C&S",
+    "effective_date": "2022-09-15",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000336",
+    "full_name": "Frank Wilson",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2023-06-24",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000337",
+    "full_name": "Omar Nguyen",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0010",
+    "line_of_business": "C&S",
+    "effective_date": "2022-08-19",
+    "term_date": "2025-08-26",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000338",
+    "full_name": "Hank Smith",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-27",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000339",
+    "full_name": "Hank Davis",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0004",
+    "line_of_business": "C&S",
+    "effective_date": "2022-03-17",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000340",
+    "full_name": "Sue Kim",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2022-05-29",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000341",
+    "full_name": "Leo Wilson",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0005",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-29",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000342",
+    "full_name": "Nora Williams",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-25",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000343",
+    "full_name": "Ray Kim",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0011",
+    "line_of_business": "C&S",
+    "effective_date": "2023-02-23",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000344",
+    "full_name": "Tom Smith",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0011",
+    "line_of_business": "C&S",
+    "effective_date": "2022-08-03",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000345",
+    "full_name": "Quinn Garcia",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-07-22",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000346",
+    "full_name": "Bob Johnson",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0009",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-06",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000347",
+    "full_name": "Tom Patel",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2022-06-18",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000348",
+    "full_name": "Kara Davis",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2022-10-30",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000349",
+    "full_name": "Tom Nguyen",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0005",
+    "line_of_business": "C&S",
+    "effective_date": "2023-04-21",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000350",
+    "full_name": "Leo Johnson",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-06-22",
+    "term_date": "2025-08-04",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000351",
+    "full_name": "Eve Williams",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0003",
+    "line_of_business": "C&S",
+    "effective_date": "2022-10-08",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000352",
+    "full_name": "Jack Khan",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-13",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000353",
+    "full_name": "Bob Khan",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-15",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000354",
+    "full_name": "David Khan",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-03",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000355",
+    "full_name": "Frank Lopez",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2022-09-26",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000356",
+    "full_name": "Hank Kim",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2022-08-31",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000357",
+    "full_name": "Tom Nguyen",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0011",
+    "line_of_business": "E&I",
+    "effective_date": "2022-01-30",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000358",
+    "full_name": "Eve Lopez",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-23",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000359",
+    "full_name": "Ray Williams",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0008",
+    "line_of_business": "C&S",
+    "effective_date": "2022-12-22",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000360",
+    "full_name": "Jack Miller",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0002",
+    "line_of_business": "C&S",
+    "effective_date": "2022-11-14",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000361",
+    "full_name": "Tom Johnson",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0009",
+    "line_of_business": "C&S",
+    "effective_date": "2023-02-15",
+    "term_date": "2025-05-06",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000362",
+    "full_name": "Frank Johnson",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0005",
+    "line_of_business": "E&I",
+    "effective_date": "2022-10-12",
+    "term_date": "2025-08-07",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000363",
+    "full_name": "Jack Williams",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-09",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000364",
+    "full_name": "Ray Miller",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2023-05-07",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000365",
+    "full_name": "Quinn Miller",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0011",
+    "line_of_business": "E&I",
+    "effective_date": "2023-02-22",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000366",
+    "full_name": "Ivy Smith",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2022-10-01",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000367",
+    "full_name": "Ivy Johnson",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-21",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000368",
+    "full_name": "David Wilson",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0005",
+    "line_of_business": "E&I",
+    "effective_date": "2022-07-24",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000369",
+    "full_name": "Tom Williams",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2022-07-29",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000370",
+    "full_name": "Mona Davis",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0005",
+    "line_of_business": "C&S",
+    "effective_date": "2023-02-27",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000371",
+    "full_name": "Pia Lopez",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0001",
+    "line_of_business": "C&S",
+    "effective_date": "2023-04-19",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000372",
+    "full_name": "Sue Davis",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0004",
+    "line_of_business": "C&S",
+    "effective_date": "2022-06-14",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000373",
+    "full_name": "Bob Jones",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2022-06-10",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000374",
+    "full_name": "Jack Garcia",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0005",
+    "line_of_business": "E&I",
+    "effective_date": "2022-07-01",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000375",
+    "full_name": "Leo Khan",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2023-04-20",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000376",
+    "full_name": "Eve Smith",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2023-02-19",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000377",
+    "full_name": "Frank Nguyen",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2022-05-01",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000378",
+    "full_name": "David Jones",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0010",
+    "line_of_business": "C&S",
+    "effective_date": "2023-01-07",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000379",
+    "full_name": "Eve Brown",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0002",
+    "line_of_business": "C&S",
+    "effective_date": "2022-12-08",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000380",
+    "full_name": "Hank Nguyen",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0005",
+    "line_of_business": "E&I",
+    "effective_date": "2022-06-08",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000381",
+    "full_name": "Kara Williams",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0009",
+    "line_of_business": "E&I",
+    "effective_date": "2023-07-01",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000382",
+    "full_name": "Ivy Wilson",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2022-01-10",
+    "term_date": "2025-02-04",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000383",
+    "full_name": "Quinn Wilson",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2022-03-31",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000384",
+    "full_name": "Tom Wilson",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0005",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-01",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000385",
+    "full_name": "Nora Jones",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2023-02-19",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000386",
+    "full_name": "Alice Johnson",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2022-10-16",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000387",
+    "full_name": "Kara Nguyen",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2022-12-07",
+    "term_date": "2025-08-28",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000388",
+    "full_name": "Eve Brown",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-08-12",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000389",
+    "full_name": "Mona Brown",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2022-04-04",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000390",
+    "full_name": "Ray Nguyen",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2022-11-07",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000391",
+    "full_name": "David Kim",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-11",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000392",
+    "full_name": "Carol Jones",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0010",
+    "line_of_business": "C&S",
+    "effective_date": "2022-09-08",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000393",
+    "full_name": "Ivy Johnson",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2023-03-08",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000394",
+    "full_name": "Carol Lopez",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0001",
+    "line_of_business": "C&S",
+    "effective_date": "2023-04-18",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000395",
+    "full_name": "Hank Williams",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0011",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-26",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000396",
+    "full_name": "Tom Wilson",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0012",
+    "line_of_business": "C&S",
+    "effective_date": "2023-03-13",
+    "term_date": "2025-02-02",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000397",
+    "full_name": "Nora Kim",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0009",
+    "line_of_business": "E&I",
+    "effective_date": "2023-05-05",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000398",
+    "full_name": "Kara Wilson",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2022-10-31",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000399",
+    "full_name": "Carol Brown",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0003",
+    "line_of_business": "C&S",
+    "effective_date": "2022-12-22",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000400",
+    "full_name": "David Davis",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2022-10-26",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000401",
+    "full_name": "Carol Williams",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0005",
+    "line_of_business": "C&S",
+    "effective_date": "2023-07-31",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000402",
+    "full_name": "Pia Khan",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0005",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-10",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000403",
+    "full_name": "Bob Johnson",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-07",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000404",
+    "full_name": "Jack Nguyen",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0003",
+    "line_of_business": "C&S",
+    "effective_date": "2022-11-16",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000405",
+    "full_name": "Grace Nguyen",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-12",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000406",
+    "full_name": "Ivy Miller",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0009",
+    "line_of_business": "C&S",
+    "effective_date": "2022-08-14",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000407",
+    "full_name": "Ivy Brown",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2022-06-04",
+    "term_date": "2025-03-26",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000408",
+    "full_name": "Bob Kim",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0002",
+    "line_of_business": "C&S",
+    "effective_date": "2023-01-05",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000409",
+    "full_name": "Pia Khan",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0012",
+    "line_of_business": "C&S",
+    "effective_date": "2022-07-18",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000410",
+    "full_name": "Jack Smith",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-18",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000411",
+    "full_name": "Alice Garcia",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2023-05-14",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000412",
+    "full_name": "Ray Kim",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2022-09-11",
+    "term_date": "2025-08-19",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000413",
+    "full_name": "Frank Johnson",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-08-30",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000414",
+    "full_name": "Grace Williams",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0004",
+    "line_of_business": "C&S",
+    "effective_date": "2022-11-25",
+    "term_date": "2025-08-12",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000415",
+    "full_name": "Pia Nguyen",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2022-07-04",
+    "term_date": "2025-03-21",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000416",
+    "full_name": "Hank Kim",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2023-06-28",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000417",
+    "full_name": "David Wilson",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0011",
+    "line_of_business": "C&S",
+    "effective_date": "2022-04-10",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000418",
+    "full_name": "Kara Wilson",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2023-02-17",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000419",
+    "full_name": "Ray Smith",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0002",
+    "line_of_business": "C&S",
+    "effective_date": "2023-01-19",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000420",
+    "full_name": "Jack Lopez",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0005",
+    "line_of_business": "E&I",
+    "effective_date": "2022-05-16",
+    "term_date": "2025-01-10",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000421",
+    "full_name": "David Brown",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0009",
+    "line_of_business": "C&S",
+    "effective_date": "2022-07-05",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000422",
+    "full_name": "Leo Nguyen",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0008",
+    "line_of_business": "C&S",
+    "effective_date": "2023-02-22",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000423",
+    "full_name": "Omar Nguyen",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2022-05-01",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000424",
+    "full_name": "Jack Lopez",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0006",
+    "line_of_business": "E&I",
+    "effective_date": "2022-09-02",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000425",
+    "full_name": "Eve Brown",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0011",
+    "line_of_business": "C&S",
+    "effective_date": "2023-05-22",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000426",
+    "full_name": "Carol Jones",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2022-07-08",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000427",
+    "full_name": "Jack Miller",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2023-08-01",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000428",
+    "full_name": "Ivy Williams",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0006",
+    "line_of_business": "C&S",
+    "effective_date": "2022-11-07",
+    "term_date": "2025-04-30",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000429",
+    "full_name": "Ivy Miller",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0003",
+    "line_of_business": "C&S",
+    "effective_date": "2023-08-23",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000430",
+    "full_name": "Tom Miller",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-10-23",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000431",
+    "full_name": "Jack Smith",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0003",
+    "line_of_business": "C&S",
+    "effective_date": "2023-07-29",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000432",
+    "full_name": "Frank Khan",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0009",
+    "line_of_business": "C&S",
+    "effective_date": "2023-03-10",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000433",
+    "full_name": "Hank Miller",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0002",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-03",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000434",
+    "full_name": "Leo Lopez",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0005",
+    "line_of_business": "C&S",
+    "effective_date": "2023-05-23",
+    "term_date": "2025-06-25",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000435",
+    "full_name": "Jack Smith",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0011",
+    "line_of_business": "E&I",
+    "effective_date": "2022-08-06",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000436",
+    "full_name": "Grace Patel",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0009",
+    "line_of_business": "C&S",
+    "effective_date": "2022-11-12",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000437",
+    "full_name": "Hank Brown",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0009",
+    "line_of_business": "E&I",
+    "effective_date": "2022-04-05",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000438",
+    "full_name": "Ray Brown",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2022-07-12",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000439",
+    "full_name": "Jack Brown",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2022-08-03",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000440",
+    "full_name": "Omar Lopez",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0011",
+    "line_of_business": "C&S",
+    "effective_date": "2022-02-09",
+    "term_date": "2025-10-13",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000441",
+    "full_name": "Ivy Khan",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-05",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000442",
+    "full_name": "Ray Miller",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2022-01-03",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000443",
+    "full_name": "Alice Brown",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0005",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-10",
+    "term_date": "2025-05-22",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000444",
+    "full_name": "Grace Nguyen",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-14",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000445",
+    "full_name": "Bob Johnson",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0010",
+    "line_of_business": "C&S",
+    "effective_date": "2022-08-05",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000446",
+    "full_name": "Quinn Jones",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0009",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-29",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000447",
+    "full_name": "Bob Jones",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-17",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000448",
+    "full_name": "Jack Miller",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2022-03-23",
+    "term_date": "2025-07-16",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000449",
+    "full_name": "Tom Brown",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0005",
+    "line_of_business": "C&S",
+    "effective_date": "2023-04-21",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000450",
+    "full_name": "Alice Khan",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0010",
+    "line_of_business": "C&S",
+    "effective_date": "2023-06-06",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000451",
+    "full_name": "Leo Nguyen",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0002",
+    "line_of_business": "C&S",
+    "effective_date": "2022-10-08",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000452",
+    "full_name": "Sue Nguyen",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0008",
+    "line_of_business": "C&S",
+    "effective_date": "2022-06-16",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000453",
+    "full_name": "David Patel",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2023-09-27",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000454",
+    "full_name": "Eve Johnson",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2022-08-17",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000455",
+    "full_name": "Omar Kim",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0012",
+    "line_of_business": "C&S",
+    "effective_date": "2023-01-02",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000456",
+    "full_name": "Mona Garcia",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0011",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-28",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000457",
+    "full_name": "Eve Wilson",
+    "group_id": "GRP0014",
+    "plan_id": "PLN0001",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-05",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000458",
+    "full_name": "Jack Miller",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-10",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000459",
+    "full_name": "Alice Khan",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0011",
+    "line_of_business": "E&I",
+    "effective_date": "2022-03-20",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000460",
+    "full_name": "Bob Davis",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-02",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000461",
+    "full_name": "Eve Lopez",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2022-04-08",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000462",
+    "full_name": "Omar Davis",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-08",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000463",
+    "full_name": "Ray Lopez",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0001",
+    "line_of_business": "C&S",
+    "effective_date": "2023-01-29",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000464",
+    "full_name": "Kara Smith",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0003",
+    "line_of_business": "C&S",
+    "effective_date": "2023-03-27",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000465",
+    "full_name": "Nora Kim",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2022-08-11",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000466",
+    "full_name": "Nora Patel",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-15",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000467",
+    "full_name": "Mona Garcia",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0005",
+    "line_of_business": "C&S",
+    "effective_date": "2022-10-23",
+    "term_date": "2025-07-23",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000468",
+    "full_name": "Mona Kim",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2022-09-12",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000469",
+    "full_name": "Alice Smith",
+    "group_id": "GRP0007",
+    "plan_id": "PLN0011",
+    "line_of_business": "E&I",
+    "effective_date": "2022-03-02",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000470",
+    "full_name": "Grace Johnson",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0001",
+    "line_of_business": "C&S",
+    "effective_date": "2023-06-27",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000471",
+    "full_name": "Frank Kim",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0002",
+    "line_of_business": "E&I",
+    "effective_date": "2023-01-11",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000472",
+    "full_name": "Quinn Smith",
+    "group_id": "GRP0008",
+    "plan_id": "PLN0009",
+    "line_of_business": "E&I",
+    "effective_date": "2022-08-03",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000473",
+    "full_name": "Nora Davis",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2022-10-23",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000474",
+    "full_name": "Leo Smith",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0009",
+    "line_of_business": "E&I",
+    "effective_date": "2022-06-26",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000475",
+    "full_name": "Alice Johnson",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0008",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-17",
+    "term_date": "",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000476",
+    "full_name": "Nora Khan",
+    "group_id": "GRP0013",
+    "plan_id": "PLN0002",
+    "line_of_business": "E&I",
+    "effective_date": "2022-02-05",
+    "term_date": "2025-05-24",
+    "eligibility_status": "Termed"
+  },
+  {
+    "member_id": "MBR000477",
+    "full_name": "Ray Jones",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0011",
+    "line_of_business": "C&S",
+    "effective_date": "2023-05-16",
+    "term_date": "2025-05-23",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000478",
+    "full_name": "Mona Patel",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2022-12-21",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000479",
+    "full_name": "Bob Williams",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0005",
+    "line_of_business": "E&I",
+    "effective_date": "2022-05-06",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000480",
+    "full_name": "Eve Wilson",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0006",
+    "line_of_business": "C&S",
+    "effective_date": "2022-09-24",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000481",
+    "full_name": "Hank Nguyen",
+    "group_id": "GRP0005",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2022-04-08",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000482",
+    "full_name": "Sue Miller",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0010",
+    "line_of_business": "C&S",
+    "effective_date": "2022-12-05",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000483",
+    "full_name": "Tom Jones",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0003",
+    "line_of_business": "C&S",
+    "effective_date": "2023-03-18",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000484",
+    "full_name": "Hank Nguyen",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0009",
+    "line_of_business": "C&S",
+    "effective_date": "2022-04-22",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000485",
+    "full_name": "Hank Williams",
+    "group_id": "GRP0004",
+    "plan_id": "PLN0003",
+    "line_of_business": "C&S",
+    "effective_date": "2022-11-11",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000486",
+    "full_name": "Pia Williams",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2022-06-23",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000487",
+    "full_name": "Pia Wilson",
+    "group_id": "GRP0010",
+    "plan_id": "PLN0008",
+    "line_of_business": "C&S",
+    "effective_date": "2022-12-21",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000488",
+    "full_name": "Alice Davis",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0012",
+    "line_of_business": "C&S",
+    "effective_date": "2023-04-14",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000489",
+    "full_name": "Ray Lopez",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0004",
+    "line_of_business": "E&I",
+    "effective_date": "2022-07-09",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000490",
+    "full_name": "Quinn Smith",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0005",
+    "line_of_business": "E&I",
+    "effective_date": "2022-08-13",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000491",
+    "full_name": "Alice Nguyen",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-09-10",
+    "term_date": "2025-04-29",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000492",
+    "full_name": "Ivy Kim",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0007",
+    "line_of_business": "E&I",
+    "effective_date": "2023-04-20",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000493",
+    "full_name": "Omar Garcia",
+    "group_id": "GRP0006",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-09",
+    "term_date": "2025-05-10",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000494",
+    "full_name": "Hank Kim",
+    "group_id": "GRP0003",
+    "plan_id": "PLN0010",
+    "line_of_business": "E&I",
+    "effective_date": "2023-02-11",
+    "term_date": "2025-07-18",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000495",
+    "full_name": "David Kim",
+    "group_id": "GRP0015",
+    "plan_id": "PLN0007",
+    "line_of_business": "C&S",
+    "effective_date": "2022-03-24",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000496",
+    "full_name": "David Jones",
+    "group_id": "GRP0009",
+    "plan_id": "PLN0012",
+    "line_of_business": "E&I",
+    "effective_date": "2022-11-11",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000497",
+    "full_name": "Mona Nguyen",
+    "group_id": "GRP0002",
+    "plan_id": "PLN0008",
+    "line_of_business": "C&S",
+    "effective_date": "2023-04-15",
+    "term_date": "2025-09-06",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000498",
+    "full_name": "Tom Khan",
+    "group_id": "GRP0012",
+    "plan_id": "PLN0009",
+    "line_of_business": "C&S",
+    "effective_date": "2023-02-22",
+    "term_date": "",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000499",
+    "full_name": "David Nguyen",
+    "group_id": "GRP0011",
+    "plan_id": "PLN0003",
+    "line_of_business": "E&I",
+    "effective_date": "2022-09-18",
+    "term_date": "2025-04-21",
+    "eligibility_status": "Active"
+  },
+  {
+    "member_id": "MBR000500",
+    "full_name": "Leo Nguyen",
+    "group_id": "GRP0001",
+    "plan_id": "PLN0001",
+    "line_of_business": "C&S",
+    "effective_date": "2023-01-19",
+    "term_date": "",
+    "eligibility_status": "Active"
+  }
+]
