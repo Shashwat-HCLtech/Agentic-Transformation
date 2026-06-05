@@ -56,6 +56,23 @@ The runtime is dominated by sequential live Claude calls (~40 per run). To speed
 up, point the specialist agents at a faster model — set `SPECIALIST_MODEL` (e.g.
 a Haiku id) in `.env`; the orchestrator keeps `MODEL` for planning + the report.
 
+## Deploy a public URL (from this GitHub repo)
+
+GitHub Pages can't run this (it's a Node server with a secret key). To get a
+shareable `https://…` URL, deploy from the repo to a Node host. A `render.yaml`
+blueprint is included:
+
+1. Sign in at [render.com](https://render.com) → **New → Blueprint** → pick this repo.
+2. Render reads `render.yaml`. Set the env vars in the dashboard:
+   - `ANTHROPIC_API_KEY` — your key (secret)
+   - `APP_USER` + `APP_PASS` — a shared login (so only people you give it to can
+     run pipelines on your key). **Leave unset = fully public.**
+   - `SPECIALIST_MODEL` *(optional)* — a faster model for the specialist agents.
+3. Deploy → you get `https://agentic-dwh-XXXX.onrender.com`.
+
+> ⚠️ A public URL means anyone who opens it can run pipelines **on your API key**.
+> Set `APP_USER`/`APP_PASS` to gate access.
+
 ## Tech
 
 Node.js · Express · `@anthropic-ai/sdk` · SheetJS (xlsx) · vanilla JS UI (SSE

@@ -1,0 +1,23 @@
+# Render blueprint — deploys the app straight from this GitHub repo.
+# https://render.com  →  New  →  Blueprint  →  pick this repo.
+services:
+  - type: web
+    name: agentic-dwh
+    runtime: node
+    plan: free
+    rootDir: agentic-dwh-app        # the app lives in this subfolder
+    buildCommand: npm install
+    startCommand: node server.js
+    autoDeploy: true                # redeploy on every push to the default branch
+    envVars:
+      - key: ANTHROPIC_API_KEY      # set in the Render dashboard (secret)
+        sync: false
+      - key: MODEL
+        value: claude-sonnet-4-6
+      - key: SPECIALIST_MODEL       # optional: a faster model for specialists
+        sync: false
+      - key: APP_USER               # shared login so only HCLTech folks can use it
+        sync: false
+      - key: APP_PASS               # (leave APP_USER/APP_PASS unset = fully public)
+        sync: false
+    # Render injects PORT automatically; server.js already reads process.env.PORT.

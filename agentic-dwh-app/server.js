@@ -21,6 +21,23 @@ const { sourcesStatus, SOURCE_CLASSES, SUBJECT_AREAS, UPLOAD_DIR } = require("./
 
 const app = express();
 const PORT = process.env.PORT || 3000;
+
+// Optional HTTP Basic Auth — protects a PUBLIC deployment so only people with the
+// shared login can use it (and burn the API key). No-op unless APP_USER + APP_PASS
+// are set, so local dev is unaffected.
+const APP_USER = process.env.APP_USER, APP_PASS = process.env.APP_PASS;
+if (APP_USER && APP_PASS) {
+  app.use((req, res, next) => {
+    const [type, creds] = (req.headers.authorization || "").split(" ");
+    if (type === "Basic" && creds) {
+      const [u, p] = Buffer.from(creds, "base64").toString().split(":");
+      if (u === APP_USER && p === APP_PASS) return next();
+    }
+    res.set("WWW-Authenticate", 'Basic realm="Agentic DWH"').status(401).send("Authentication required");
+  });
+  console.log("🔒  Basic Auth enabled (APP_USER/APP_PASS set)");
+}
+
 app.use(express.json({ limit: "25mb" }));               // uploaded source files arrive as text
 app.use(express.static(path.join(__dirname, "public")));
 app.use("/samples", express.static(path.join(__dirname, "data", "sources")));   // sample-file downloads
